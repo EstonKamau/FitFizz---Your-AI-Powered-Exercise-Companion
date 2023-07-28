@@ -3,7 +3,7 @@ import openai
 import panel as pn
 
 # Set up OpenAI API key
-openai.api_key = "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"
+openai.api_key = " "
 
 # Function to get GPT-3 response
 def get_completion_from_messages(messages, model="gpt-3.5-turbo", temperature=0):
