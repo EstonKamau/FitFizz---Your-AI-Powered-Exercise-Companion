@@ -57,7 +57,8 @@ python app.py
 
 ### Preview
 
-![image.png]((https://github.com/EstonKamau/FitFizz---Your-AI-Powered-Exercise-Companion/blob/main/Screenshot.jpg))
+![image.jpg]((https://github.com/EstonKamau/FitFizz---Your-AI-Powered-Exercise-Companion/blob/main/Screenshot.jpg))
 
 
 Start your fitness journey with FitFizz today and let our AI-powered exercise recommender be your trusted fitness partner! Happy exercising!
+
